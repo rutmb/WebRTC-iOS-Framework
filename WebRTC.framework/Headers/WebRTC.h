@@ -21,7 +21,6 @@
 #import <WebRTC/RTCDispatcher.h>
 #if TARGET_OS_IPHONE
 #import <WebRTC/RTCEAGLVideoView.h>
-#import <WebRTC/RTCMTLVideoView.h>
 #endif
 #import <WebRTC/RTCFieldTrials.h>
 #import <WebRTC/RTCFileLogger.h>
