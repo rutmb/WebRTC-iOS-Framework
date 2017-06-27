@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "WebRTC"
-  s.version      = "58.17. 18587"
+  s.version      = "58.17.18587"
   s.summary      = "WebRTC SDK for iOS"
   s.description  = <<-DESC
     WebRTC is a free, open project that provides browsers and mobile
